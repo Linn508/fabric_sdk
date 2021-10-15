@@ -1,0 +1,16 @@
+com\fabric\bean\Path.class
+com\fabric\bean\UserContext.class
+com\fabric\test\SdkMain.class
+com\fabric\controller\InitChainCodeController.class
+com\fabric\po\Cost.class
+com\fabric\controller\InstallChainCodeController.class
+com\fabric\controller\ChannelController.class
+com\fabric\client\FabricClient.class
+com\fabric\utils\UserUtils.class
+com\fabric\config\MyMvcConfig.class
+com\fabric\controller\QueryChainCodeController.class
+com\fabric\utils\UserUtils$CAEnrollment.class
+com\fabric\SdkApplication.class
+com\fabric\utils\MyUtils.class
+com\fabric\controller\UpdateChainCodeController.class
+com\fabric\controller\InvokeChainCodeController.class
